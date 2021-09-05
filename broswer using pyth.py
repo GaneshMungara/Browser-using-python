@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *  #QIcon
@@ -55,10 +52,3 @@ app = QApplication(sys.argv)
 QApplication.setApplicationName('Browser')
 window = MainWindow()
 app.exec_()
-
-
-# In[ ]:
-
-
-
-
