@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#pip install PyQt5
+#pip install PyQtWebEngine
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *  #QIcon
